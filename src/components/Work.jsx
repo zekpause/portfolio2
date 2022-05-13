@@ -22,7 +22,7 @@ const Work = () => {
                         {/* Hover Effect */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                React JS Application
+                                Online Shop
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://inquisitive-cucurucho-f06e35.netlify.app/">
@@ -40,7 +40,7 @@ const Work = () => {
                         {/* Hover Effect */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                React JS Application
+                                Face detect website
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://smartbigbrain.herokuapp.com/">
@@ -58,7 +58,7 @@ const Work = () => {
                         {/* Hover Effect */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                React JS Application
+                                To-Do-List
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://zekpause.github.io/drag-and-drop/">
@@ -76,7 +76,7 @@ const Work = () => {
                         {/* Hover Effect */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                React JS Application
+                                Netflix-clone
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://netflix-react-5900b.web.app/">

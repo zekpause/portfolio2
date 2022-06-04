@@ -118,8 +118,8 @@ const Work = () => {
                         {/* Hover Effect */}
                         <div className='opacity-0 group-hover:opacity-100'>
                             <span className='text-2xl font-bold text-white tracking-wider'>
-                                Weather-web
-                                <p>(enter a city name)</p>
+                                Crypto data
+                                <p>(sign up for saving data)</p>
                             </span>
                             <div className='pt-8 text-center'>
                                 <a href="https://nimble-axolotl-3a7837.netlify.app/">

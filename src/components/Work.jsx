@@ -48,10 +48,10 @@ const Work = () => {
                                 <p>(Sign up for saving data)</p>
                             </span>
                             <div className='pt-8 text-center'>
-                                <a href="https://inquisitive-cucurucho-f06e35.netlify.app/">
+                                <a href="https://cryptobase-7753b.web.app/">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
                                 </a>
-                                <a href="https://github.com/zekpause/crwn-clothing">
+                                <a href="https://github.com/zekpause/crypto-page">
                                     <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                                 </a>
                             </div>
